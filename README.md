@@ -1,5 +1,5 @@
 # [Coffee With Steff](https://coffee-with-steff.herokuapp.com/)
-A mockup of a website of a small coffee shop.
+A mockup of a website for a small coffee shop.
 
 ![alt tag](https://github.com/Hopeah/coffee-with-steff/blob/main/public/images/coffeewithsteff.gif)
 
