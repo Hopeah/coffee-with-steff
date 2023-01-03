@@ -1,7 +1,7 @@
-# [Coffee With Steff](https://coffee-with-steff.herokuapp.com/)
+# [Coffee With Steff](https://coffee-with-steff.netlify.app/)
 A mockup of a website for a small coffee shop.
 
-![alt tag](https://github.com/Hopeah/coffee-with-steff/blob/main/public/images/coffeewithsteff.gif)
+![alt tag](https://github.com/Hopeah/coffee-with-steff/blob/main/images/coffeewithsteff.gif)
 
 ## How It's Made:
 
